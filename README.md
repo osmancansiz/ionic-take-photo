@@ -1,0 +1,1 @@
+# ionic-take-photo
